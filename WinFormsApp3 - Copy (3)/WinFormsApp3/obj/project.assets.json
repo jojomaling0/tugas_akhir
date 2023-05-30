@@ -1710,24 +1710,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\YOSSI NORDIANSAH\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+    "C:\\Users\\ardia\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Kuliah\\mata kuliah semester 4\\pemrograman visual 2\\tugas akhir\\WinFormsApp3 - Copy (3)\\WinFormsApp3 - Copy (3)\\WinFormsApp3\\WinFormsApp3.vbproj",
+      "projectUniqueName": "D:\\Folder Baru\\futsal\\tugas_akhir\\WinFormsApp3 - Copy (3)\\WinFormsApp3\\WinFormsApp3.vbproj",
       "projectName": "WinFormsApp3",
-      "projectPath": "C:\\Kuliah\\mata kuliah semester 4\\pemrograman visual 2\\tugas akhir\\WinFormsApp3 - Copy (3)\\WinFormsApp3 - Copy (3)\\WinFormsApp3\\WinFormsApp3.vbproj",
-      "packagesPath": "C:\\Users\\YOSSI NORDIANSAH\\.nuget\\packages\\",
-      "outputPath": "C:\\Kuliah\\mata kuliah semester 4\\pemrograman visual 2\\tugas akhir\\WinFormsApp3 - Copy (3)\\WinFormsApp3 - Copy (3)\\WinFormsApp3\\obj\\",
+      "projectPath": "D:\\Folder Baru\\futsal\\tugas_akhir\\WinFormsApp3 - Copy (3)\\WinFormsApp3\\WinFormsApp3.vbproj",
+      "packagesPath": "C:\\Users\\ardia\\.nuget\\packages\\",
+      "outputPath": "D:\\Folder Baru\\futsal\\tugas_akhir\\WinFormsApp3 - Copy (3)\\WinFormsApp3\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-      ],
       "configFilePaths": [
-        "C:\\Users\\YOSSI NORDIANSAH\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Users\\ardia\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -1777,7 +1772,7 @@
             "privateAssets": "none"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.201\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
       }
     }
   }
